@@ -1,6 +1,6 @@
 # Repository for the paper titled "Evolutionary effects of individual variation and higher-order interactions on robustness of species coexistence."
 
-# This repository contains the following R and C++ scripts, and data used for producing the figures
+### This repository contains the following R and C++ scripts, and data used for producing the figures
 
 
 #### Data: 
