@@ -1,7 +1,9 @@
 # Repository for the paper titled "Evolutionary effects of individual variation and higher-order interactions on robustness of species coexistence."
+Authors: Gaurav Baruah, György Barabás, Robert John
 
 ### This repository contains the following R and C++ scripts, and data used for producing the figures
 
+The codes are written by G
 
 #### Data: 
 `data.rds`, `data_fig1.rds`, `data_processesd.rds` are used to produce all the figures used in the main-text
